@@ -1,0 +1,1246 @@
+TZYiCarouselTest
+v7
+r0
+t396414764.839334
+cCheck dependencies
+cProcessInfoPlistFile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist ZYiCarouselTest-Info.plist
+cCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/MainWindow.xib
+cCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/0.jpg Classes/images/0.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/1.jpg Classes/images/1.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/10.jpg Classes/images/10.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/2.jpg Classes/images/2.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/3.jpg Classes/images/3.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/4.jpg Classes/images/4.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/5.jpg Classes/images/5.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/6.jpg Classes/images/6.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/7.jpg Classes/images/7.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/8.jpg Classes/images/8.jpg
+cCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/9.jpg Classes/images/9.jpg
+cCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+cCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+cProcessPCH /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch.gch ZYiCarouselTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest normal i386
+cGenerateDSYMFile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+cTouch /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+c000000005194F86D0000000000005BDA
+t1368717421
+s23514
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.h
+c000000004C6241AA00000000000006E1
+t1281507754
+s1761
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m
+c000000004DF4ACAA0000000000000B4A
+t1307880618
+s2890
+i"AFItemView.h"
+i<QuartzCore/QuartzCore.h>
+i"AFOpenFlowConstants.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowConstants.h
+c000000004D9FE59E0000000000000507
+t1302324638
+s1287
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.h
+c000000004DF3B9EE0000000000000ABF
+t1307818478
+s2751
+i<UIKit/UIKit.h>
+i"AFItemView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m
+c000000004DF4AC4A00000000000040FD
+t1307880522
+s16637
+i"AFOpenFlowView.h"
+i"AFOpenFlowConstants.h"
+i"AFUIImageReflection.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.h
+c000000004C6241AA0000000000000504
+t1281507754
+s1284
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m
+c000000004C6241AA0000000000001002
+t1281507754
+s4098
+i"AFUIImageReflection.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.h
+c000000005194F13D0000000000000125
+t1368715581
+s293
+i<UIKit/UIKit.h>
+i"AFOpenFlowView.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m
+c000000005194FC4A0000000000000828
+t1368718410
+s2088
+i"ZYOpenFlowViewController.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+c000000005194EE690000000000001883
+t1368714857
+s6275
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.h
+c000000005194DFD10000000000000206
+t1368711121
+s518
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m
+c000000005194F8A70000000000000B48
+t1368717479
+s2888
+i"ZYiCarouselTestAppDelegate.h"
+i"ZYiCarouselTestViewController.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.h
+c000000005194F7E20000000000000170
+t1368717282
+s368
+i<UIKit/UIKit.h>
+i"ZYOpenFlowViewController.h"
+i"ZYiCarpuseViewController.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m
+c000000005194F9380000000000000793
+t1368717624
+s1939
+i"ZYiCarouselTestViewController.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.h
+c000000005194FACB0000000000000152
+t1368718027
+s338
+i<UIKit/UIKit.h>
+i"iCarousel.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m
+c000000005194FB0F0000000000000B27
+t1368718095
+s2855
+i"ZYiCarpuseViewController.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+c000000005194F5E80000000000001883
+t1368716776
+s6275
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.h
+c000000004E5221B40000000000001976
+t1314005428
+s6518
+i<QuartzCore/QuartzCore.h>
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.m
+c000000005194F5B0000000000000B30B
+t1368716720
+s45835
+i"iCarousel.h"
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/0.jpg
+c000000005194F3E200000000000068BC
+t1368716258
+s26812
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/1.jpg
+c000000005194F3FF000000000000345F
+t1368716287
+s13407
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/10.jpg
+c000000005194F45F00000000000067EE
+t1368716383
+s26606
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/2.jpg
+c000000005194F408000000000000623A
+t1368716296
+s25146
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/3.jpg
+c000000005194F45F0000000000006015
+t1368716383
+s24597
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/4.jpg
+c000000005194F45F0000000000006B18
+t1368716383
+s27416
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/5.jpg
+c000000005194F45F0000000000004CF5
+t1368716383
+s19701
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/6.jpg
+c000000005194F45F0000000000005F9E
+t1368716383
+s24478
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/7.jpg
+c000000005194F45F00000000000037A6
+t1368716383
+s14246
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/8.jpg
+c000000005194F45F0000000000005F87
+t1368716383
+s24455
+
+N/Users/wxg/Desktop/ZYiCarouselTest/Classes/images/9.jpg
+c000000005194F45F0000000000004172
+t1368716383
+s16754
+
+N/Users/wxg/Desktop/ZYiCarouselTest/MainWindow.xib
+c000000005194DFD10000000000004E89
+t1368711121
+s20105
+
+N/Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTestViewController.xib
+c000000005194DFD10000000000001A65
+t1368711121
+s6757
+
+N/Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTest_Prefix.pch
+c000000005194DFD100000000000000C7
+t1368711121
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+t1368718371
+s680
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM
+t1368718371
+s102
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/0.jpg
+t1368717652
+s26812
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/1.jpg
+t1368717652
+s13407
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/10.jpg
+t1368717652
+s26606
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/2.jpg
+t1368717652
+s25146
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/3.jpg
+t1368717652
+s24597
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/4.jpg
+t1368717652
+s27416
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/5.jpg
+t1368717652
+s19701
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/6.jpg
+t1368717652
+s24478
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/7.jpg
+t1368717652
+s14246
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/8.jpg
+t1368717652
+s24455
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/9.jpg
+t1368717652
+s16754
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist
+t1368717652
+s629
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/MainWindow.nib
+t1368717653
+s1139
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/PkgInfo
+t1368717652
+s8
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYOpenFlowViewController.nib
+t1368717653
+s764
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+t1368718371
+s124788
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTestViewController.nib
+t1368717653
+s1675
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarpuseViewController.nib
+t1368717653
+s764
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o
+t1368717654
+s45752
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o
+t1368717654
+s80564
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o
+t1368717654
+s11676
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o
+t1368718371
+s46172
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTest.LinkFileList
+c000000005194F9540000000000000531
+t1368717652
+s1329
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o
+t1368718097
+s54464
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o
+t1368718096
+s42644
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o
+t1368718097
+s51876
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o
+t1368717654
+s163568
+
+N/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o
+t1368717654
+s6292
+
+N/Users/wxg/Desktop/ZYiCarouselTest/main.m
+c000000005194DFD10000000000000168
+t1368711121
+s360
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+c000000005194F86D0000000000005BDA
+t1368717421
+s23514
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.h
+c000000004C6241AA00000000000006E1
+t1281507754
+s1761
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m
+c000000004DF4ACAA0000000000000B4A
+t1307880618
+s2890
+i"AFItemView.h"
+i<QuartzCore/QuartzCore.h>
+i"AFOpenFlowConstants.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowConstants.h
+c000000004D9FE59E0000000000000507
+t1302324638
+s1287
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.h
+c000000004DF3B9EE0000000000000ABF
+t1307818478
+s2751
+i<UIKit/UIKit.h>
+i"AFItemView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m
+c000000004DF4AC4A00000000000040FD
+t1307880522
+s16637
+i"AFOpenFlowView.h"
+i"AFOpenFlowConstants.h"
+i"AFUIImageReflection.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.h
+c000000004C6241AA0000000000000504
+t1281507754
+s1284
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m
+c000000004C6241AA0000000000001002
+t1281507754
+s4098
+i"AFUIImageReflection.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.h
+c000000005194F13D0000000000000125
+t1368715581
+s293
+i<UIKit/UIKit.h>
+i"AFOpenFlowView.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m
+c0000000051F0972900000000000008B2
+t1374721833
+s2226
+i"ZYOpenFlowViewController.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+c000000005194EE690000000000001883
+t1368714857
+s6275
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.h
+c000000005194DFD10000000000000206
+t1368711121
+s518
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m
+c000000005194F8A70000000000000B48
+t1368717479
+s2888
+i"ZYiCarouselTestAppDelegate.h"
+i"ZYiCarouselTestViewController.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.h
+c000000005194F7E20000000000000170
+t1368717282
+s368
+i<UIKit/UIKit.h>
+i"ZYOpenFlowViewController.h"
+i"ZYiCarpuseViewController.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m
+c000000005194F9380000000000000793
+t1368717624
+s1939
+i"ZYiCarouselTestViewController.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.h
+c000000005194FACB0000000000000152
+t1368718027
+s338
+i<UIKit/UIKit.h>
+i"iCarousel.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m
+c0000000051EF871B0000000000000B27
+t1374652187
+s2855
+i"ZYiCarpuseViewController.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+c000000005194F5E80000000000001883
+t1368716776
+s6275
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.h
+c000000004E5221B40000000000001976
+t1314005428
+s6518
+i<QuartzCore/QuartzCore.h>
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m
+c000000005194F5B0000000000000B30B
+t1368716720
+s45835
+i"iCarousel.h"
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/0.jpg
+c0000000051F0979D0000000000001CFE
+t1374721949
+s7422
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/1.jpg
+c000000005194F3FF000000000000345F
+t1368716287
+s13407
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/10.jpg
+c000000005194F45F00000000000067EE
+t1368716383
+s26606
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/2.jpg
+c000000005194F408000000000000623A
+t1368716296
+s25146
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/3.jpg
+c000000005194F45F0000000000006015
+t1368716383
+s24597
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/4.jpg
+c000000005194F45F0000000000006B18
+t1368716383
+s27416
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/5.jpg
+c000000005194F45F0000000000004CF5
+t1368716383
+s19701
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/6.jpg
+c000000005194F45F0000000000005F9E
+t1368716383
+s24478
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/7.jpg
+c000000005194F45F00000000000037A6
+t1368716383
+s14246
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/8.jpg
+c000000005194F45F0000000000005F87
+t1368716383
+s24455
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/9.jpg
+c000000005194F45F0000000000004172
+t1368716383
+s16754
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/MainWindow.xib
+c000000005194DFD10000000000004E89
+t1368711121
+s20105
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/ZYiCarouselTest_Prefix.pch
+c000000005194DFD100000000000000C7
+t1368711121
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+t1374721964
+s680
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM
+t1374721964
+s102
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/0.jpg
+t1374721963
+s7422
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/1.jpg
+t1374721963
+s13407
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/10.jpg
+t1374721963
+s26606
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/2.jpg
+t1374721963
+s25146
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/3.jpg
+t1374721963
+s24597
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/4.jpg
+t1374721963
+s27416
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/5.jpg
+t1374721963
+s19701
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/6.jpg
+t1374721963
+s24478
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/7.jpg
+t1374721963
+s14246
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/8.jpg
+t1374721963
+s24455
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/9.jpg
+t1374721963
+s16754
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist
+t1374721963
+s629
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/MainWindow.nib
+t1374721963
+s1139
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/PkgInfo
+t1374721963
+s8
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYOpenFlowViewController.nib
+t1374721963
+s764
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+t1374721964
+s125020
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTestViewController.nib
+t1374721963
+s1675
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarpuseViewController.nib
+t1374721963
+s764
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o
+t1374721964
+s45776
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o
+t1374721964
+s80588
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o
+t1374721964
+s11704
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o
+t1374721964
+s45992
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTest.LinkFileList
+c0000000051F097AA00000000000005A6
+t1374721962
+s1446
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o
+t1374721964
+s54492
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o
+t1374721964
+s42684
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o
+t1374721964
+s51916
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o
+t1374721964
+s163600
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o
+t1374721964
+s6316
+
+N/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m
+c000000005194DFD10000000000000168
+t1368711121
+s360
+i<UIKit/UIKit.h>
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch.gch
+t1368717654
+s15457488
+
+N/var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch.gch
+t1374721964
+s15457488
+
+NZYiCarouselTest-Info.plist
+c000000005194DFD1000000000000038D
+t1368711121
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies396414762#396414763#0(0"0(0#1#0"4570588480#0"0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410454.566359
+e390410454.684728
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m390410454#390410454#0(0"0(0#0#64"/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m4592537232#2051"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.495524
+e396414764.601949
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m396414764#396414764#0(0"0(0#0#77"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m4570586768#2194"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFItemView.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFItemView.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410454.610133
+e390410454.818092
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m390410454#390410454#0(0"0(0#0#68"/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m4592537232#2059"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.527119
+e396414764.706102
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m396414764#396414764#0(0"0(0#0#81"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m4570586768#2202"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFOpenFlowView.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFOpenFlowView.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410454.615199
+e390410454.691200
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m390410454#390410454#0(0"0(0#0#73"/Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m4592537232#2069"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.533965
+e396414764.603732
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m396414764#396414764#0(0"0(0#0#86"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m4570586768#2212"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/OpenFlow/AFUIImageReflection.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/AFUIImageReflection.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390411171.036049
+e390411171.093905
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m390411171#390411171#0(0"0(0#0#69"/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m4493323920#2070"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.602277
+e396414764.679696
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m396414764#396414764#0(0"0(0#0#82"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m4570586768#2213"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYOpenFlowViewController.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410896.858845
+e390410897.003251
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m390410896#390410897#0(0"0(0#0#71"/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m4557848208#2074"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.444801
+e396414764.533834
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m396414764#396414764#0(0"0(0#0#84"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m4570586768#2217"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestAppDelegate.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestAppDelegate.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410896.863438
+e390410896.998344
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m390410896#390410896#0(0"0(0#0#74"/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m4557848208#2080"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.446027
+e396414764.526990
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m396414764#396414764#0(0"0(0#0#87"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m4570586768#2223"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarouselTestViewController.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTestViewController.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410896.887188
+e390410897.034501
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m390410896#390410897#0(0"0(0#0#69"/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m4557848208#2070"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.603850
+e396414764.700761
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m396414764#396414764#0(0"0(0#0#82"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m4570586768#2213"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarpuseViewController.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o /Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410454.509285
+e390410454.890939
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.m390410454#390410454#0(0"0(0#0#64"/Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.m4592537232#2050"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/Classes/iCarousel/iCarousel.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.447739
+e396414764.786915
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m396414764#396414764#0(0"0(0#0#77"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m4570586768#2193"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/iCarousel/iCarousel.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/iCarousel.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o /Users/wxg/Desktop/ZYiCarouselTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410454.504542
+e390410454.566238
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o
+x/Users/wxg/Desktop/ZYiCarouselTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/wxg/Desktop/ZYiCarouselTest/main.m390410454#390410454#0(0"0(0#0#41"/Users/wxg/Desktop/ZYiCarouselTest/main.m4592537232#2022"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/ZYiCarouselTest/main.m -o /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414764.443092
+e396414764.495394
+r1
+xCompileC
+xbuild/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m396414764#396414764#0(0"0(0#0#54"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m4570586768#2165"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -include /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/main.m -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/wxg/Desktop/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+s390410452.511648
+e390410453.301023
+r1
+xCompileXIB
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+lSLF07#2@55"CompileXIB Classes/../ZYiCarouselTestViewController.xib390410452#390410453#0(0"0(0#0#79"/Users/wxg/Desktop/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib4592537232#611"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTestViewController.nib /Users/wxg/Desktop/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+s390410452.540095
+e390410453.155020
+r1
+xCompileXIB
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+lSLF07#2@47"CompileXIB Classes/ZYOpenFlowViewController.xib390410452#390410453#0(0"0(0#0#71"/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib4592537232#598"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYOpenFlowViewController.nib /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+s390410452.613417
+e390410453.286702
+r1
+xCompileXIB
+x/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+lSLF07#2@47"CompileXIB Classes/ZYiCarpuseViewController.xib390410452#390410453#0(0"0(0#0#71"/Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib4592537232#598"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarpuseViewController.nib /Users/wxg/Desktop/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/ZYiCarouselTest/MainWindow.xib
+s390410452.511014
+e390410453.286086
+r1
+xCompileXIB
+x/Users/wxg/Desktop/ZYiCarouselTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib390410452#390410453#0(0"0(0#0#49"/Users/wxg/Desktop/ZYiCarouselTest/MainWindow.xib4592537232#562"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/MainWindow.nib /Users/wxg/Desktop/ZYiCarouselTest/MainWindow.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTestViewController.xib
+s390404047.177674
+e390404047.912105
+r1
+xCompileXIB
+x/Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTestViewController.xib
+lSLF07#2@44"CompileXIB ZYiCarouselTestViewController.xib390404047#390404047#0(0"0(0#0#68"/Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTestViewController.xib4578619024#600"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTestViewController.nib /Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTestViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+s396414763.070020
+e396414763.580337
+r1
+xCompileXIB
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib
+lSLF07#2@55"CompileXIB Classes/../ZYiCarouselTestViewController.xib396414763#396414763#0(0"0(0#0#92"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib4570586768#650"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTestViewController.nib /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/../ZYiCarouselTestViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+s396414763.138160
+e396414763.657067
+r1
+xCompileXIB
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib
+lSLF07#2@47"CompileXIB Classes/ZYOpenFlowViewController.xib396414763#396414763#0(0"0(0#0#84"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib4570586768#637"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYOpenFlowViewController.nib /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYOpenFlowViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+s396414763.155079
+e396414763.657271
+r1
+xCompileXIB
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib
+lSLF07#2@47"CompileXIB Classes/ZYiCarpuseViewController.xib396414763#396414763#0(0"0(0#0#84"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib4570586768#637"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarpuseViewController.nib /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/ZYiCarpuseViewController.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/MainWindow.xib
+s396414763.069410
+e396414763.560029
+r1
+xCompileXIB
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib396414763#396414763#0(0"0(0#0#62"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/MainWindow.xib4570586768#601"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/MainWindow.nib /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/MainWindow.xib --sdk /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/0.jpg Classes/images/0.jpg
+s396414763.070708
+e396414763.130142
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/0.jpg
+xClasses/images/0.jpg
+lSLF07#2@25"Copy Classes/images/0.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/0.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/0.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/1.jpg Classes/images/1.jpg
+s396414763.071375
+e396414763.137564
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/1.jpg
+xClasses/images/1.jpg
+lSLF07#2@25"Copy Classes/images/1.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/1.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/1.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/10.jpg Classes/images/10.jpg
+s396414763.072260
+e396414763.137765
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/10.jpg
+xClasses/images/10.jpg
+lSLF07#2@26"Copy Classes/images/10.jpg396414763#396414763#0(0"0(0#0#69"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/10.jpg4570586768#511"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/10.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/2.jpg Classes/images/2.jpg
+s396414763.073028
+e396414763.137914
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/2.jpg
+xClasses/images/2.jpg
+lSLF07#2@25"Copy Classes/images/2.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/2.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/2.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/3.jpg Classes/images/3.jpg
+s396414763.073752
+e396414763.119406
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/3.jpg
+xClasses/images/3.jpg
+lSLF07#2@25"Copy Classes/images/3.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/3.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/3.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/4.jpg Classes/images/4.jpg
+s396414763.074698
+e396414763.119555
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/4.jpg
+xClasses/images/4.jpg
+lSLF07#2@25"Copy Classes/images/4.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/4.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/4.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/5.jpg Classes/images/5.jpg
+s396414763.075576
+e396414763.119678
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/5.jpg
+xClasses/images/5.jpg
+lSLF07#2@25"Copy Classes/images/5.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/5.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/5.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/6.jpg Classes/images/6.jpg
+s396414763.076551
+e396414763.138063
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/6.jpg
+xClasses/images/6.jpg
+lSLF07#2@25"Copy Classes/images/6.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/6.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/6.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/7.jpg Classes/images/7.jpg
+s396414763.122466
+e396414763.154993
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/7.jpg
+xClasses/images/7.jpg
+lSLF07#2@25"Copy Classes/images/7.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/7.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/7.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/8.jpg Classes/images/8.jpg
+s396414763.123249
+e396414763.139099
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/8.jpg
+xClasses/images/8.jpg
+lSLF07#2@25"Copy Classes/images/8.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/8.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/8.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ZYiCarouselTest.app/9.jpg Classes/images/9.jpg
+s396414763.123911
+e396414763.140818
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ZYiCarouselTest.app/9.jpg
+xClasses/images/9.jpg
+lSLF07#2@25"Copy Classes/images/9.jpg396414763#396414763#0(0"0(0#0#68"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/9.jpg4570586768#510"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/Classes/images/9.jpg /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CGenerateDSYMFile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+s390411171.119994
+e390411171.145190
+r1
+xGenerateDSYMFile
+x/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM
+x/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest390411171#390411171#0(0"0(0#0#98"/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest4493323920#392"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/dsymutil /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest -o /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM0#
+
+CGenerateDSYMFile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+s396414764.812924
+e396414764.836528
+r1
+xGenerateDSYMFile
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest396414764#396414764#0(0"0(0#0#111"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest4570586768#431"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/usr/bin/dsymutil /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app.dSYM0#
+
+CLd /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest normal i386
+s390411171.093977
+e390411171.119918
+r1
+xLd
+x/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+xnormal
+xi386
+lSLF07#2@103"Link /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest390411171#390411171#0(0"0(0#0#0"4493323920#938"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -filelist /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest0#
+
+CLd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest normal i386
+s396414764.786989
+e396414764.812833
+r1
+xLd
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest
+xnormal
+xi386
+lSLF07#2@116"Link /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest396414764#396414764#0(0"0(0#0#0"4570586768#1003"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -filelist /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/Objects-normal/i386/ZYiCarouselTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/ZYiCarouselTest0#
+
+CProcessInfoPlistFile /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist ZYiCarouselTest-Info.plist
+s390410452.507371
+e390410452.510907
+r1
+xProcessInfoPlistFile
+x/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist
+xZYiCarouselTest-Info.plist
+lSLF07#2@34"Process ZYiCarouselTest-Info.plist390410452#390410452#0(0"0(0#0#61"/Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTest-Info.plist4592537344#489"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ZYiCarouselTest-Info.plist -genpkginfo /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist ZYiCarouselTest-Info.plist
+s396414763.065757
+e396414763.069332
+r1
+xProcessInfoPlistFile
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist
+xZYiCarouselTest-Info.plist
+lSLF07#2@34"Process ZYiCarouselTest-Info.plist396414763#396414763#0(0"0(0#0#74"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/ZYiCarouselTest-Info.plist4570586880#528"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ZYiCarouselTest-Info.plist -genpkginfo /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app/Info.plist0#
+
+CProcessPCH /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch.gch ZYiCarouselTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s390410453.301159
+e390410454.504115
+r1
+xProcessPCH
+x/var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch.gch
+xZYiCarouselTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile ZYiCarouselTest_Prefix.pch390410453#390410454#0(0"0(0#0#61"/Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTest_Prefix.pch4592537232#1910"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -c /Users/wxg/Desktop/ZYiCarouselTest/ZYiCarouselTest_Prefix.pch -o /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-cnhgcrkmvldpdshldfrbfadeuqtp/ZYiCarouselTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch.gch ZYiCarouselTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s396414763.657417
+e396414764.442924
+r1
+xProcessPCH
+x/var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch.gch
+xZYiCarouselTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile ZYiCarouselTest_Prefix.pch396414763#396414764#0(0"0(0#0#74"/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/ZYiCarouselTest_Prefix.pch4570586768#2040"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-generated-files.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-own-target-headers.hmap -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-all-target-headers.hmap -iquote /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/ZYiCarouselTest-project-headers.hmap -F/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/include -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources/i386 -I/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/ZYiCarouselTest.build/Debug-iphonesimulator/ZYiCarouselTest.build/DerivedSources -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/ZYiCarouselTest_Prefix.pch -o /var/folders/89/10fqwn653vzclk_7zswm63pc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ZYiCarouselTest_Prefix-hlfjfrgsoevzcugdeffjjvyfqsth/ZYiCarouselTest_Prefix.pch.gch0#
+
+CTouch /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+s390411171.146429
+e390411171.156147
+r1
+xTouch
+x/Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+lSLF07#2@88"Touch /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app390411171#390411171#0(0"0(0#0#0"4493323920#276"    cd /Users/wxg/Desktop/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wxg/Desktop/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+
+CTouch /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+s396414764.836624
+e396414764.839231
+r1
+xTouch
+x/Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app
+lSLF07#2@101"Touch /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app396414764#396414764#0(0"0(0#0#0"4570586768#302"    cd /Users/wxg/Desktop/旋转木马/ZYiCarouselTest    setenv PATH "/Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode4.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wxg/Desktop/旋转木马/ZYiCarouselTest/build/Debug-iphonesimulator/ZYiCarouselTest.app0#
+

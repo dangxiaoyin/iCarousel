@@ -1,0 +1,379 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ZYiCarouselTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 636}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 518}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ZYiCarouselTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {640, 2775}}";
+			sepNavSelRange = "{827, 0}";
+			sepNavVisRange = "{500, 546}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ZYiCarouselTest */ = {
+		activeExec = 0;
+		executables = (
+			EC1771161745175200366960 /* ZYiCarouselTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ZYiCarouselTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 636}}";
+			sepNavSelRange = "{361, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ZYiCarouselTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {640, 2600}}";
+			sepNavSelRange = "{1105, 179}";
+			sepNavVisRange = "{891, 555}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC1771161745175200366960 /* ZYiCarouselTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ZYiCarouselTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ZYiCarouselTest */,
+		);
+		codeSenseManager = EC1771261745175B00366960 /* Code sense */;
+		executables = (
+			EC1771161745175200366960 /* ZYiCarouselTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					492,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 396414081;
+			PBXWorkspaceStateSaveDate = 396414081;
+		};
+		perUserProjectItems = {
+			EC17721C17452AEF00366960 /* PBXTextBookmark */ = EC17721C17452AEF00366960 /* PBXTextBookmark */;
+			EC17723F17452C1C00366960 /* PBXBookmark */ = EC17723F17452C1C00366960 /* PBXBookmark */;
+			EC17724017452C1C00366960 /* PBXBookmark */ = EC17724017452C1C00366960 /* PBXBookmark */;
+			EC17724217452C1C00366960 /* PBXBookmark */ = EC17724217452C1C00366960 /* PBXBookmark */;
+			EC17726B17452F6C00366960 /* PBXTextBookmark */ = EC17726B17452F6C00366960 /* PBXTextBookmark */;
+			EC177284174530DC00366960 /* PBXTextBookmark */ = EC177284174530DC00366960 /* PBXTextBookmark */;
+			EC17728D1745314300366960 /* PBXTextBookmark */ = EC17728D1745314300366960 /* PBXTextBookmark */;
+			EC1772A51745329100366960 /* PBXTextBookmark */ = EC1772A51745329100366960 /* PBXTextBookmark */;
+			EC1772AB174533A300366960 /* PBXTextBookmark */ = EC1772AB174533A300366960 /* PBXTextBookmark */;
+			EC1772AD174533A300366960 /* PBXTextBookmark */ = EC1772AD174533A300366960 /* PBXTextBookmark */;
+			ECECF1D517A0CF2C00A5906D /* PBXTextBookmark */ = ECECF1D517A0CF2C00A5906D /* PBXTextBookmark */;
+			ECECF1D617A0CF2C00A5906D /* PBXTextBookmark */ = ECECF1D617A0CF2C00A5906D /* PBXTextBookmark */;
+			ECECF1D717A0CF2C00A5906D /* PBXTextBookmark */ = ECECF1D717A0CF2C00A5906D /* PBXTextBookmark */;
+			ECECF1E017A0D07200A5906D /* PBXBookmark */ = ECECF1E017A0D07200A5906D /* PBXBookmark */;
+			ECECF1E117A0D07200A5906D /* PBXTextBookmark */ = ECECF1E117A0D07200A5906D /* PBXTextBookmark */;
+			ECECF1E217A0D07200A5906D /* PBXTextBookmark */ = ECECF1E217A0D07200A5906D /* PBXTextBookmark */;
+			ECECF20317A0D40700A5906D /* PBXTextBookmark */ = ECECF20317A0D40700A5906D /* PBXTextBookmark */;
+			ECECF20417A0D40700A5906D /* PBXTextBookmark */ = ECECF20417A0D40700A5906D /* PBXTextBookmark */;
+			ECECF20517A0D40700A5906D /* PBXTextBookmark */ = ECECF20517A0D40700A5906D /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC1771251745175B00366960 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC1771161745175200366960 /* ZYiCarouselTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ZYiCarouselTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC1771251745175B00366960 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC1771261745175B00366960 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC1771281745177100366960 /* iCarousel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 6200}}";
+			sepNavSelRange = "{5526, 0}";
+			sepNavVisRange = "{5358, 674}";
+		};
+	};
+	EC1771291745177100366960 /* iCarousel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 41125}}";
+			sepNavSelRange = "{4363, 1}";
+			sepNavVisRange = "{2024, 933}";
+		};
+	};
+	EC1771B21745238E00366960 /* 0.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{40, 164}, {984, 577}}";
+		};
+	};
+	EC1771D2174525BA00366960 /* AFOpenFlowView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 2600}}";
+			sepNavSelRange = "{2500, 83}";
+			sepNavVisRange = "{2043, 704}";
+		};
+	};
+	EC1771D3174525BA00366960 /* AFOpenFlowView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 12000}}";
+			sepNavSelRange = "{6337, 14}";
+			sepNavVisRange = "{6294, 399}";
+		};
+	};
+	EC1771DB174525E900366960 /* ZYOpenFlowViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {640, 604}}";
+			sepNavSelRange = "{258, 22}";
+			sepNavVisRange = "{0, 293}";
+		};
+	};
+	EC1771DC174525E900366960 /* ZYOpenFlowViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 2425}}";
+			sepNavSelRange = "{1471, 0}";
+			sepNavVisRange = "{1102, 503}";
+		};
+	};
+	EC17721C17452AEF00366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC17721D17452AEF00366960 /* CATransform3D.h */;
+		name = "CATransform3D.h: 70";
+		rLen = 77;
+		rLoc = 1972;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 1625;
+	};
+	EC17721D17452AEF00366960 /* CATransform3D.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CATransform3D.h;
+		path = /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CATransform3D.h;
+		sourceTree = "<absolute>";
+	};
+	EC17723F17452C1C00366960 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC1771B41745238E00366960 /* 10.jpg */;
+	};
+	EC17724017452C1C00366960 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC1771B51745238E00366960 /* 2.jpg */;
+	};
+	EC17724217452C1C00366960 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC1771B31745238E00366960 /* 1.jpg */;
+	};
+	EC17726517452D6800366960 /* ZYiCarpuseViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 636}}";
+			sepNavSelRange = "{319, 9}";
+			sepNavVisRange = "{0, 338}";
+		};
+	};
+	EC17726617452D6800366960 /* ZYiCarpuseViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 3325}}";
+			sepNavSelRange = "{1381, 21}";
+			sepNavVisRange = "{1293, 393}";
+		};
+	};
+	EC17726B17452F6C00366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771291745177100366960 /* iCarousel.m */;
+		name = "iCarousel.m: 144";
+		rLen = 1;
+		rLoc = 4363;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 2024;
+	};
+	EC177284174530DC00366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ZYiCarouselTestViewController.h */;
+		name = "ZYiCarouselTestViewController.h: 15";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	EC17728D1745314300366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ZYiCarouselTestAppDelegate.h */;
+		name = "ZYiCarouselTestAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	EC1772A51745329100366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC17726517452D6800366960 /* ZYiCarpuseViewController.h */;
+		name = "ZYiCarpuseViewController.h: 14";
+		rLen = 9;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+	EC1772AB174533A300366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1772AC174533A300366960 /* UIView.h */;
+		name = "UIView.h: 34";
+		rLen = 21;
+		rLoc = 1194;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 705;
+	};
+	EC1772AC174533A300366960 /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Xcode4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+	EC1772AD174533A300366960 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771D3174525BA00366960 /* AFOpenFlowView.m */;
+		name = "AFOpenFlowView.m: 177";
+		rLen = 14;
+		rLoc = 6337;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 6294;
+	};
+	ECECF1D517A0CF2C00A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZYiCarouselTestAppDelegate.m */;
+		name = "ZYiCarouselTestAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 827;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 500;
+	};
+	ECECF1D617A0CF2C00A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZYiCarouselTestViewController.m */;
+		name = "ZYiCarouselTestViewController.m: 46";
+		rLen = 179;
+		rLoc = 1105;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 891;
+	};
+	ECECF1D717A0CF2C00A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771DB174525E900366960 /* ZYOpenFlowViewController.h */;
+		name = "ZYOpenFlowViewController.h: 12";
+		rLen = 22;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 0;
+	};
+	ECECF1E017A0D07200A5906D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC1771B21745238E00366960 /* 0.jpg */;
+	};
+	ECECF1E117A0D07200A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771D2174525BA00366960 /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 77";
+		rLen = 83;
+		rLoc = 2500;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 2043;
+	};
+	ECECF1E217A0D07200A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771DC174525E900366960 /* ZYOpenFlowViewController.m */;
+		name = "ZYOpenFlowViewController.m: 55";
+		rLen = 0;
+		rLoc = 1471;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 1102;
+	};
+	ECECF20317A0D40700A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC17726617452D6800366960 /* ZYiCarpuseViewController.m */;
+		name = "ZYiCarpuseViewController.m: 49";
+		rLen = 21;
+		rLoc = 1381;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 1293;
+	};
+	ECECF20417A0D40700A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771281745177100366960 /* iCarousel.h */;
+		rLen = 1;
+		rLoc = 49;
+		rType = 1;
+	};
+	ECECF20517A0D40700A5906D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC1771281745177100366960 /* iCarousel.h */;
+		name = "iCarousel.h: 168";
+		rLen = 0;
+		rLoc = 5526;
+		rType = 0;
+		vrLen = 674;
+		vrLoc = 5358;
+	};
+}
